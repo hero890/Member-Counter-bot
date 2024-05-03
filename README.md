@@ -51,21 +51,21 @@ Send !status to any kind of chat to check whether bot is alive.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/MemberCounterMeta)
   
 ## Versions
-1. [1.0 Meta](https://github.com/teletips/MemberCounterMeta)  
+1. [1.0 Meta](https://t.me/aapna_Movies)  
     
 ## Credits
-- [TeLe TiPs](https://github.com/teletips)
-- [Thakshaka](https://t.me/thakshakar)
+- [TeLe TiPs](https://t.me/aapna_Movies)
+- [channel](**https://t.me/thakshakar**https://t.me/bots_repo)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## Warning
 
 - Changing the code is NOT ALLOWED!    
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
-- [📞 Contact](https://t.me/tele_gram_tips_bot)
+- [📞 Contact](https://t.me/bots_repo)
 ```
 ##Credits
-- [MemberCounterMeta Telegram bot by TeLe TiPs] (https://github.com/teletips/MemberCounterMeta)
+- [MemberCounterMeta Telegram bot by TeLe TiPs] (https://t.me/bots_repo)
 ```
 ## Read License 
 [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/teletips/MemberCounterMeta/blob/main/LICENSE)
