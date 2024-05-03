@@ -1,6 +1,6 @@
 #Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [MemberCounterMeta Telegram bot by TeLe TiPs] (https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
+# ##Credits - [MemberCounterMeta Telegram bot by TeLe TiPs] (https://t.me/aapna_Movies)
 
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/MemberCounterMeta
 
@@ -27,7 +27,7 @@ async def main_MemberCounterMeta():
         try:
             while True:
                 print(text_2)
-                edit_message_text_teletips = "**📈 | Real-Time Member Counter** [ᵐᵉᵗᵃ](https://github.com/teletips/MemberCounterMeta#:~:text=Versions-,1.0%20Meta,-Credits)"
+                edit_message_text_teletips = "**📈 | Real-Time Member Counter** [ᵐᵉᵗᵃ](https://t.me/aapna_Movies#:~:text=Versions-,1.0%20Meta,-Credits)"
                 for CHANNEL_OR_GROUP in CHANNEL_OR_GROUP_LIST:
                     try:
                         get_chat_teletips = await MemberCounterMeta.get_chat(int(CHANNEL_OR_GROUP))   
@@ -50,7 +50,7 @@ async def main_MemberCounterMeta():
 
 @MemberCounterMeta.on_message(filters.command("status", "!") & filters.me)
 async def alive(_, message: Message):
-    await message.edit("Your MemberCounter is alive!")
+    await message.edit("Your Member-Counter-Bot is alive! made by @aapna_Movies")
     await asyncio.sleep(10)
     await message.delete()                   
                         
